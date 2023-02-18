@@ -1,4 +1,5 @@
 public class Fan {
+    //State
     private String make;
     private double radius;
     private String color;
